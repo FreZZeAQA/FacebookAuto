@@ -1,7 +1,7 @@
 package data;
 
 public enum User {
-    DEFAULT_USER("+380686367800","Yurek2003"),
+    DEFAULT_USER("+$$$$$$$$$$$$4","%%%%%%%%%%%"),
     INCORRECT_USER("+380976003129","fksfmsfksfmskmf222134");
 
     private String LOGIN;
